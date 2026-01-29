@@ -104,17 +104,26 @@ House-Price-Prediction/
 ```bash
 git clone https://github.com/username/House-Price-Prediction.git
 
-## Install dependencies:
+```bash
+2. Install dependencies:
 pip install -r requirements.txt
 
-Run Streamlit app:
+```bash
 
+3. Run Streamlit app:
 streamlit run streamlit_app/app.py
 
-Add your API key (locally):
-
+```bash
+4.Add your API key (locally):
 GROQ_API_KEY = "your-api-key-here"
 
+### 🧑‍💻 Author
+**Ahmed Mostafa**  
+Data Analyst 
+[LinkedIn Profile](https://www.linkedin.com/in/ahmed-mostafa-841412250/)  
+
+📧 Email:
+👉 ahmedmostafa75p@gmail.com
 
 
 Summary
