@@ -88,34 +88,48 @@ Interactive app lets users:
 
 House-Price-Prediction/
 │
+
 ├─ code/ # Notebooks for data analysis and modeling
+
 ├─ data/ # Datasets
+
 ├─ models/ # Saved ML models
+
 ├─ images/ # Project visuals and screenshots
+
 ├─ streamlit_app/ # Streamlit app code
+
 ├─ requirements.txt # Python dependencies
+
 └─ README.md # Project overview
 
 
 ---
 
 ## ⚙️ How to Run Locally
+```
 1. Clone the repository:
-```bash
 git clone https://github.com/username/House-Price-Prediction.git
 
-```bash
+
 2. Install dependencies:
 pip install -r requirements.txt
 
-```bash
 
 3. Run Streamlit app:
 streamlit run streamlit_app/app.py
 
-```bash
+
 4.Add your API key (locally):
 GROQ_API_KEY = "your-api-key-here"
+```
+---
+Summary
+
+This project demonstrates end-to-end data analysis, machine learning, and AI explainability for house price prediction,
+providing actionable business insights and an interactive user experience.
+
+---
 
 ### 🧑‍💻 Author
 **Ahmed Mostafa**  
@@ -124,9 +138,3 @@ Data Analyst
 
 📧 Email:
 👉 ahmedmostafa75p@gmail.com
-
-
-Summary
-
-This project demonstrates end-to-end data analysis, machine learning, and AI explainability for house price prediction, providing actionable business insights and an interactive user experience.
-
