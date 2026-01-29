@@ -112,7 +112,8 @@ if st.button("Predict"):
      }
    
 
-    GROQ_API_KEY = os.environ["GROQ_API_KEY"]
+    #GROQ_API_KEY = os.environ["GROQ_API_KEY"]
+    GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
     url = "https://api.groq.com/openai/v1/chat/completions"
 
     headers = {
@@ -163,6 +164,7 @@ if st.button("Predict"):
         st.write(reply)
     else:
         st.error(f"❌ [Error] {response.status_code}: {response.text}")
+
 
 
 
