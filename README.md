@@ -97,6 +97,8 @@ House-Price-Prediction/
 
 ├─ images/ # Project visuals and screenshots
 
+├─ presentation/ # Real Estate
+
 ├─ streamlit_app/ # Streamlit app code
 
 ├─ requirements.txt # Python dependencies
