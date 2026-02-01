@@ -83,6 +83,10 @@ Interactive app lets users:
 **Live Streamlit App:** [Open Here](https://housepricepredictionendtoendmlproject-h3k9wasehygz2b8rf4fpv8.streamlit.app/)
 
 ---
+## 6️⃣ Dashboard
+Interactive dashboard
+
+---
 
 ## 🗂️ Project Structure
 
@@ -100,6 +104,8 @@ House-Price-Prediction/
 ├─ presentation/ # Real Estate
 
 ├─ streamlit_app/ # Streamlit app code
+
+├─ Dashboard/ # real estate
 
 ├─ requirements.txt # Python dependencies
 
