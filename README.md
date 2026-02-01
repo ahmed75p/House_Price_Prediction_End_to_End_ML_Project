@@ -83,8 +83,11 @@ Interactive app lets users:
 **Live Streamlit App:** [Open Here](https://housepricepredictionendtoendmlproject-h3k9wasehygz2b8rf4fpv8.streamlit.app/)
 
 ---
-## 6️⃣ Dashboard
+## 7- Dashboard
 Interactive dashboard
+**image1:** [click here](https://github.com/ahmed75p/House_Price_Prediction_End_to_End_ML_Project/blob/main/images/Dashboard1.png)
+
+**image2:** [click here](https://github.com/ahmed75p/House_Price_Prediction_End_to_End_ML_Project/blob/main/images/Dashboard2.png)
 
 ---
 
