@@ -86,9 +86,9 @@ Interactive app lets users:
 ## 7- Dashboard
 Interactive dashboard
 
-**image1:** ![click here](https://github.com/ahmed75p/House_Price_Prediction_End_to_End_ML_Project/blob/main/images/Dashboard1.png)
+**image1:** ![click here](https://github.com/ahmed75p/House_Price_Prediction_End_to_End_ML_Project/blob/main/images/Screenshot%202026-02-06%20053619.png)
 
-**image2:** ![click here](https://github.com/ahmed75p/House_Price_Prediction_End_to_End_ML_Project/blob/main/images/Dashboard2.png)
+**image2:** ![click here](https://github.com/ahmed75p/House_Price_Prediction_End_to_End_ML_Project/blob/main/images/Screenshot%202026-02-06%20054138.png)
 
 ---
 
